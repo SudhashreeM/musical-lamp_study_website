@@ -21,15 +21,12 @@ footer{
     background-color: #ffffff;
 }
 .row{
-    display: flex;
-    justify-content: space-around;
+    margin-top: 50px;
+    justify-content: center;
     align-items: center;
     width: 100%;
     max-width: 1000px;
-    position:absolute;
-    left: 50%;
-    top: 50%;
-    transform: translate(-50%,-50%);
+    margin: 0px auto;
 }
 .col-logo{
     flex: 0 0 50%;
